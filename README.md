@@ -6,6 +6,8 @@
 1) docker build -t crspet/spring-external:v1 . 
 
 Запуск docker container:
+
+
 2) docker run -it --name spring-ex -p 8080:8080 crspet/spring-external:v1
 
 Запущенное приложение доступно для использования через:
